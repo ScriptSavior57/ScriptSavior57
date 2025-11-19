@@ -10,7 +10,7 @@ Frameworks & Libraries: React, React Native, Vue, Angular, Next.js, Nuxt.js, Sve
 Styling: HTML5, CSS, Sass/Less, Bootstrap, D3.js, Three.js<br>
 Design: UI/UX, Responsive Web Design<br>
 -Back-End Development<br>
-JavaScript & Python Frameworks: Node.js, Express, Django<br>
+JavaScript & Python Frameworks: Node.js, Express, Django, FastApi<br>
 PHP Frameworks: Laravel, CodeIgniter, ThinkPHP<br>
 -Blockchain & Web3<br>
 Technologies: Ethereum, Solidity, Smart Contracts, Web3<br>
