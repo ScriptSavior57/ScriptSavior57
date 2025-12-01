@@ -32,6 +32,7 @@ Additional Skills<br>
 
 Data formats: XML generation and validation, JSON schema validation<br>
 Web Scraping: Python (BeautifulSoup, Scrapy, Selenium)<br>
+Automation: N8N, Zapier, Make.com<br>
 Payment Processing: Stripe integration<br>
 Real-time Communication: WebSockets, async processing with asyncio<br>
 
